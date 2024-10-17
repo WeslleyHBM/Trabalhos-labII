@@ -35,6 +35,27 @@ Cada pasta representa um trabalho específico, contendo:
 2. **Trabalho 2**: Alocação dinâmica de matrizes, a partir da criação de um código para um caça-palavras.
 3. **Trabalho 3**: Listas encadeadas: Criar um código que realize multiplos registros de diferentes tipos para armazenar alunos, professore e projetos.
 
+## 🚀 Como Executar
+
+Para executar os trabalhos, siga as instruções abaixo:
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-labprog2.git
+   ```
+2. Acesse a pasta do trabalho desejado:
+   ```bash
+   cd projeto-labprog2/Trabalho1
+   ```
+3. Compile o código (exemplo para GCC):
+   ```bash
+   gcc codigo_trabalho1.c -o trabalho1
+   ```
+4. Execute o programa:
+   ```bash
+   ./trabalho1
+   ```
+
 ## 🛠 Tecnologias Utilizadas
 
 - Linguagem C
